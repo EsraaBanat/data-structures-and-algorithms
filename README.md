@@ -18,6 +18,37 @@ To run your tests
 - run `npm test` to run all of the tests
 - run `npm test ##` to only run tests for challenge ## (i.e. 01)
 
-### 401 Data Structures, Code Challenges
+## 401 Data Structures, Code Challenges
 
-- Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+### **Table of content :**
+
+| Documentation | Code Files     |
+|:-------------:|:--------------:|
+| [Challenge01](./Code_Challenges/code_challenge_01/README.md)   | [Array Reverse]()  |
+| [Challenge02]()   |[]()|
+| [Challenge03]()   |[]()|
+| [Challenge04]()   |[]()|
+| [Challenge05]()   |[]()|
+| [Challenge06]()   |[]()|
+| [Challenge07]()   |[]()|
+| [Challenge08]()   |[]()|
+| [Challenge09]()   |[]()|
+| [Challenge10]()   |[]()|
+| [Challenge11]()   |[]()|
+| [Challenge12]()   |[]()|
+| [Challenge13]()   |[]()|
+| [Challenge14]()   |[]()|
+| [Challenge15]()   |[]()|
+| [Challenge16]()   |[]()|
+| [Challenge17]()   |[]()|
+| [Challenge18]()   |[]()|
+| [Challenge19]()   |[]()|
+| [Challenge20]()   |[]()|
+| [Challenge21]()   |[]()|
+| [Challenge22]()   |[]()|
+| [Challenge23]()   |[]()|
+| [Challenge24]()   |[]()|
+| [Challenge25]()   |[]()|
+| [Challenge26]()   |[]()|
+| [Challenge27]()   |[]()|
+
