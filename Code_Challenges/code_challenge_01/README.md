@@ -9,6 +9,14 @@ Write a function called reverseArray which takes an array as an argument. Withou
 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
+Big O :
+Time => O(n) because looping through n (length of array)
+Space => O(n) because we declared an array of size n
+
+
+
+
+ Below another approach that could be use to solve the problem  by using some bulid in methods that make the code easiar and shorter like unshif() and map() instead of for Loop
 
 ```
 function Reverse (arr){
