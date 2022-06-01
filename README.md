@@ -25,11 +25,11 @@ To run your tests
 | Documentation | Code Files     |
 |:-------------:|:--------------:|
 | [Challenge01](./Code_Challenges/code_challenge_01/README.md)   | [Array Reverse]()  |
-| [Challenge02]()   |[]()|
-| [Challenge03]()   |[]()|
-| [Challenge04]()   |[]()|
-| [Challenge05]()   |[]()|
-| [Challenge06]()   |[]()|
+| [Challenge02](./Code_Challenges/code_challenge_02/README.md)   |[Array Shift]()|
+| [Challenge03](./Code_Challenges/code_challenge_03/README.md)   |[]()|
+| [Challenge04](./Code_Challenges/code_challenge_04/README.md)   |[]()|
+| [Challenge05](./Code_Challenges/code_challenge_05/README.md)   |[]()|
+| [Challenge06](./Code_Challenges/code_challenge_06/README.md)   |[]()|
 | [Challenge07]()   |[]()|
 | [Challenge08]()   |[]()|
 | [Challenge09]()   |[]()|
