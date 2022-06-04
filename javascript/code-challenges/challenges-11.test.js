@@ -19,6 +19,7 @@ Becomes:
 ------------------------------------------------------------------------------------------------ */
 
 function transformToLis(obj){
+
 let result = Object.entries(obj).map(e=>{
  return `<li>${e.join(': ')}</li>`
 })
@@ -36,6 +37,7 @@ For example, count(5, [[1, 3, 5, 7, 9], [5, 5, 5], [1, 2, 3]]) returns 4.
 ------------------------------------------------------------------------------------------------ */
 
 const count = (target, input) => {
+
   let c=0;
    input.map(e => {
     e.map(a => {
@@ -65,6 +67,7 @@ const totalSum = (input) => {
     })
   })
   return sum;
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -80,7 +83,10 @@ For example, [ [0,2,5,4], [2,4,10], [] ] should return [ [1, 32], [1024], [] ].
 ------------------------------------------------------------------------------------------------ */
 
 const divisibleByFiveTwoToThePower = (input) => {
+
  return input.map((element)=>element.filter((value)=>(typeof(value)==='number'&&value%5===0)).map((result)=>Math.pow(2,result)));
+=======
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -146,7 +152,9 @@ let starWarsData = [{
 }];
 
 let findMaleAndFemale = (data) => {
+
   return data.filter(value => value.gender === 'male' || value.gender === 'female').map((val) => val.name).join(' and ')
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -157,6 +165,7 @@ Write a function named findShortest that, given the Star Wars data from Challeng
 
 let findShortest = (data) => {
   return data.reduce((min, value) => Number(min.height) < Number(value.height) ? min : value).name;
+
 };
 
 /* ------------------------------------------------------------------------------------------------
