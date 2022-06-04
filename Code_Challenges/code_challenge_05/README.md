@@ -1,13 +1,14 @@
-## COD 05
+# Singly Linked List
+<!-- Short summary or background information -->
 
-# Insert to Middle of an Array
+
+## Challenge
 <!-- Description of the challenge -->
 
-## Whiteboard Process
-<!-- Embedded whiteboard image -->
-
 ## Approach & Efficiency
-<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 
+## API
+<!-- Description of each method publicly available to your Linked List -->
 
-[Back To Home](../../README.md)
+## [Back To Home](../../README.md)
