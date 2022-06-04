@@ -124,8 +124,8 @@ Write a function named citiesAtoJ that takes in an array of city names and uses 
 ------------------------------------------------------------------------------------------------ */
 
 const citiesAtoJ = (arr) => {
-   let regex = /\b[A-J]\w+/g;
-  let newArr= arr.map(e => {
+   let regex = /^[A-J]/;
+  let newArr= arr.filter(e => {
     return e.match(regex);
   });
   return newArr;
