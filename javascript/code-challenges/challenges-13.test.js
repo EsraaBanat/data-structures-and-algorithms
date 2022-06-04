@@ -3,6 +3,7 @@
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 1 - Review
 
+
 Write a function named longestString that takes in an array of strings and returns the index position of the longest string.
 ------------------------------------------------------------------------------------------------ */
 
@@ -18,6 +19,7 @@ const longestString = (arr) => {
   return a
 };
 
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
 
@@ -28,6 +30,7 @@ For example, ['this is great :)', 'wow', 'whyyyyyy :(', ':)))))'] returns ['t', 
 
 const firstLetters = (arr) => {
   return arr.map(e=>e[0])
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -39,12 +42,14 @@ For example, ['this is great :)', 'wow', 'whyyyyyy :(', ':)))))'] returns ['this
 ------------------------------------------------------------------------------------------------ */
 
 const findHappiness = (arr) => {
+
   let regex1 = /^:\)/g;
   let regex2 = /:\)/g;
   let result = arr.filter(element => {
     return ((regex1.test(element)) || (regex2.test(element))) ? element : null ;
   });
   return result;
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -61,6 +66,11 @@ const standardizePhoneNumbers = (arr) => {
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 5
+=======
+  // Solution code here...
+};
+
+
 
 Write a function named onlyOddChars that takes in a string and returns only the odd-index characters from that string.
 
@@ -68,6 +78,7 @@ For example, 'abcdefg' returns 'bdf'
 ------------------------------------------------------------------------------------------------ */
 
 const onlyOddChars = (str) => {
+
   let answer = '';
   for(let i = 0; i < str.length; i++) {
     i % 2 !== 0 ? answer += str[i] : '';
@@ -78,10 +89,12 @@ const onlyOddChars = (str) => {
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6
 
+
 Write a function named allHappy that takes in an array of strings and returns a Boolean indicating whether all those strings contain ":)".
 ------------------------------------------------------------------------------------------------ */
 
 const allHappy = (arr) => {
+
   let regex1 = /^:\)/g;
   let regex2 = /:\)/g;
   let result = false;
@@ -91,6 +104,7 @@ const allHappy = (arr) => {
   });
   (happy.length===arr.length) ? result=true : result=false;
   return result;
+
 };
 
 /* ------------------------------------------------------------------------------------------------
