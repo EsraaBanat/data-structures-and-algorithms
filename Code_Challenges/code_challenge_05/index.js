@@ -2,13 +2,14 @@
 
 const LinkedList = require('./lib/linkedlist');
 
-const linkesList = new LinkedList();
+const ll = new LinkedList();
 
-linkesList.insert(1);
-linkesList.insert(2);
-linkesList.insert(3);
-linkesList.tostring();
-console.log(linkesList);
-// console.log(linkesList.includes(1));
-// console.log(linkesList.includes(3));
+ll.insert(1);
+ll.insert(2);
+ll.insert(3);
+ll.tostring();
+// console.log(ll.length);
+console.log(ll.length);
+console.log(ll.tostring());
+// console.log(ll.includes(3));
 
