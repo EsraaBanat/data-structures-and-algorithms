@@ -4,8 +4,8 @@ const Node = require('./node');
 class LinkedList {
   constructor() {
     this.head = null;
-    this.length;
-    this.tail;
+    this.length=0;
+    this.tail=null;
   }
 
   //'insert' method :
@@ -13,6 +13,7 @@ class LinkedList {
     const newNode = new Node(value);
     if (!this.head) {
       this.head = newNode;
+      this.length++;
       return this;
     }
     else {
@@ -21,6 +22,7 @@ class LinkedList {
         temporaryNode = temporaryNode.next;
       }
       temporaryNode.next = newNode;
+      this.length++;
       return this;
     }
   }
@@ -39,7 +41,13 @@ class LinkedList {
 
   // 'to string' method :
   tostring() {
-    console.log(this); // ensure if that correct
+    let currentNode = this.head;
+    let str = '';
+    while (currentNode) {
+      str += `{${currentNode.value}} -> ` ;
+      currentNode = currentNode.next;
+    }
+    return str;
   }
 }
 
