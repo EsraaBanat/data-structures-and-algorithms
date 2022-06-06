@@ -26,7 +26,7 @@ To run your tests
 |:-------------:|:--------------:|
 | [Challenge01](./Code_Challenges/code_challenge_01/README.md)   | [Array Reverse](./Code_Challenges/code_challenge_01/README.md)  |
 | [Challenge02](./Code_Challenges/code_challenge_02/README.md)   |[Array Shift](./Code_Challenges/code_challenge_02/README.md)|
-| [Challenge03](./Code_Challenges/code_challenge_03/README.md)   |[]()|
+| [Challenge03](./Code_Challenges/code_challenge_03/README.md)   |[array-binary-search](./Code_Challenges/code_challenge_03)|
 | [Challenge04](./Code_Challenges/code_challenge_04/README.md)   |[]()|
 | [Challenge05](./Code_Challenges/code_challenge_05/README.md)   |[Singly Linked Lists](./Code_Challenges/code_challenge_05)|
 | [Challenge06](./Code_Challenges/code_challenge_06/README.md)   |[]()|
