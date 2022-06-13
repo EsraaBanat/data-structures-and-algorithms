@@ -39,6 +39,7 @@ class LinkedList {
         if (currentNode.next.value == value) {
           newNode.next = currentNode.next;
           currentNode.next = newNode;
+          this.length++;
           return this;
         }
         currentNode = currentNode.next;
@@ -46,11 +47,25 @@ class LinkedList {
       return this;
     }
   }
-
-
-  //   insertAfter(value, newValue) {
-
-  // }
+ insertAfter(value,newValue){
+    const node = new Node(newValue);
+    let current=this.head;
+    while(current.next){
+      if (current.value == value) {
+        node.next = current.next;
+        current.next = node;
+        this.length++;
+        return this;
+      }
+      current = current.next;
+    }
+    if (current.value==value){
+      current.next = node;
+      this.length++;
+      return this;
+    }
+    return this;
+}
  // 'to string' method :
   tostring() {
     let currentNode = this.head;
