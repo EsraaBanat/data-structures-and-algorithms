@@ -29,8 +29,8 @@ To run your tests
 | [Challenge03](./Code_Challenges/code_challenge_03/README.md)   |[array-binary-search](./Code_Challenges/code_challenge_03)|
 | [Challenge04](https://docs.google.com/spreadsheets/d/17v9EHZSx1pWw0zlSFUC3xtqhZoHqw1BM5FRgKkA0nUQ/edit#gid=434282659)   |[Fibonacci](https://docs.google.com/spreadsheets/d/17v9EHZSx1pWw0zlSFUC3xtqhZoHqw1BM5FRgKkA0nUQ/edit#gid=434282659)|
 | [Challenge05](./Code_Challenges/code_challenge_05/README.md)   |[Singly Linked Lists](./Code_Challenges/code_challenge_05)|
-| [Challenge06](./Code_Challenges/code_challenge_06)   |[Linked list insertions](./Code_Challenges/code_challenge_06/README.md)|
-| [Challenge07]()   |[]()|
+| [Challenge06](./Code_Challenges/code_challenge_06/README.md)   |[]()|
+| [Challenge07](./javascript/Code_Challenges/code_challenge_07/README.md)   |[K-th value from the end of a linked list](./javascript/Code_Challenges/code_challenge_07/)|
 | [Challenge08]()   |[]()|
 | [Challenge09]()   |[]()|
 | [Challenge10]()   |[]()|

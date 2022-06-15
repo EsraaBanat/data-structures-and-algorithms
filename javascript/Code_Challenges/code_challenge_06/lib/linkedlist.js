@@ -28,7 +28,7 @@ class LinkedList {
   }
   insertBefore(value, newValue) {
     const newNode = new Node(newValue);
-    if (this.head.value == value) {
+    if (this.head.value === value) {
       this.head = newNode;
       this.length++;
       return this;
@@ -36,7 +36,7 @@ class LinkedList {
     else {
       let currentNode = this.head;
       while (currentNode.next) {
-        if (currentNode.next.value == value) {
+        if (currentNode.next.value === value) {
           newNode.next = currentNode.next;
           currentNode.next = newNode;
           this.length++;
@@ -47,11 +47,11 @@ class LinkedList {
       return this;
     }
   }
- insertAfter(value,newValue){
+  insertAfter(value,newValue){
     const node = new Node(newValue);
     let current=this.head;
     while(current.next){
-      if (current.value == value) {
+      if (current.value === value) {
         node.next = current.next;
         current.next = node;
         this.length++;
@@ -59,14 +59,14 @@ class LinkedList {
       }
       current = current.next;
     }
-    if (current.value==value){
+    if (current.value===value){
       current.next = node;
       this.length++;
       return this;
-    }
-    return this;
-}
- // 'to string' method :
+    } return this;
+  }
+
+  // 'to string' method :
   tostring() {
     let currentNode = this.head;
     let str = '';
