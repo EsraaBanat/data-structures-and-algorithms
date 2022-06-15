@@ -20,7 +20,7 @@ To run your tests
 
 ## 401 Data Structures, Code Challenges
 
-### **Table of content :**
+## **Table of content :**
 
 | Documentation | Code Files     |
 |:-------------:|:--------------:|
