@@ -28,8 +28,8 @@ To run your tests
 | [Challenge02](./javascript/Code_Challenges/code_challenge_02/README.md)   |[Array Shift](./javascript/Code_Challenges/code_challenge_02/README.md)|
 | [Challenge03](./javascript/Code_Challenges/code_challenge_03/README.md)   |[array-binary-search](./javascript/Code_Challenges/code_challenge_03/README.md)|
 | [Challenge04](https://docs.google.com/spreadsheets/d/17v9EHZSx1pWw0zlSFUC3xtqhZoHqw1BM5FRgKkA0nUQ/edit#gid=434282659)   |[Fibonacci](https://docs.google.com/spreadsheets/d/17v9EHZSx1pWw0zlSFUC3xtqhZoHqw1BM5FRgKkA0nUQ/edit#gid=434282659)|
-| [Challenge05](./javascript/Code_Challenges/code_challenge_05/README.md)   |[Singly Linked Lists](./javascript/Code_Challenges/code_challenge_05/README.md)|
-| [Challenge06](./Code_Challenges/code_challenge_06/README.md)   |[]()|
+| [Challenge05](./javascript/Code_Challenges/code_challenge_05/README.md)   |[Singly Linked Lists](./javascript/Code_Challenges/code_challenge_05)|
+| [Challenge06](./javascript/Code_Challenges/code_challenge_06/README.md)   |[Linked list insertions](./javascript/Code_Challenges/code_challenge_06/)|
 | [Challenge07](./javascript/Code_Challenges/code_challenge_07/README.md)   |[K-th value from the end of a linked list](./javascript/Code_Challenges/code_challenge_07/)|
 | [Challenge08]()   |[]()|
 | [Challenge09]()   |[]()|
