@@ -16,4 +16,5 @@ The time complexity of the Binary Search is O(logn), where n is the number of el
 Binary Search is simple, intuitive and efficient logic and implementation make it a very popular algorithm to demonstrate the divide-and-conquer strategy.
 
 
-## [Back To Home](../../README.md)
+## [Back To Home](../../../README.md)
+
