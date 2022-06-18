@@ -31,7 +31,7 @@ To run your tests
 | [Challenge05](./javascript/Code_Challenges/code_challenge_05/README.md)   |[Singly Linked Lists](./javascript/Code_Challenges/code_challenge_05)|
 | [Challenge06](./javascript/Code_Challenges/code_challenge_06/README.md)   |[Linked list insertions](./javascript/Code_Challenges/code_challenge_06/)|
 | [Challenge07](./javascript/Code_Challenges/code_challenge_07/README.md)   |[K-th value from the end of a linked list](./javascript/Code_Challenges/code_challenge_07/)|
-| [Challenge08]()   |[]()|
+| [Challenge08](./javascript//Code_Challenges/code_challenge_08/)   |[linked-list-zip](./javascript/Code_Challenges/code_challenge_08/README.md)|
 | [Challenge09]()   |[]()|
 | [Challenge10]()   |[]()|
 | [Challenge11]()   |[]()|
