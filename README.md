@@ -32,7 +32,7 @@ To run your tests
 | [Challenge06](./javascript/Code_Challenges/code_challenge_06/README.md)   |[Linked list insertions](./javascript/Code_Challenges/code_challenge_06/)|
 | [Challenge07](./javascript/Code_Challenges/code_challenge_07/README.md)   |[K-th value from the end of a linked list](./javascript/Code_Challenges/code_challenge_07/)|
 | [Challenge08](./javascript//Code_Challenges/code_challenge_08/)   |[linked-list-zip](./javascript/Code_Challenges/code_challenge_08/README.md)|
-| [Challenge09]()   |[]()|
+| [Challenge09](https://docs.google.com/spreadsheets/d/1eotYV5CijiJlkBWxLlElD_krW-PlwQ-NBnpzukW1pVE/edit#gid=0)   |[Validate whether or not a Linked List is palindrome](https://docs.google.com/spreadsheets/d/1eotYV5CijiJlkBWxLlElD_krW-PlwQ-NBnpzukW1pVE/edit#gid=0)|
 | [Challenge10]()   |[]()|
 | [Challenge11]()   |[]()|
 | [Challenge12]()   |[]()|
