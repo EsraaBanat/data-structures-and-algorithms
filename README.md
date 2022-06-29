@@ -36,7 +36,7 @@ To run your tests
 | [Challenge10](./javascript//Code_Challenges//code_challenge_10/README.md)   |[Stacks and Queues Implementation](./javascript/Code_Challenges/code_challenge_10/)|
 | [Challenge11](./javascript//Code_Challenges/code_challenge_11/README.md)   |[Queue Implementation using two Stacks ](./javascript/Code_Challenges/code_challenge_11/)|
 | [Challenge12](./javascript//Code_Challenges/code_challenge_12/README.md)   |[FIFO Animal Shelter](./javascript/Code_Challenges/code_challenge_12/AnimalShelter_queue/AnimalShelter.js)|
-| [Challenge13]()   |[]()|
+| [Challenge13](./javascript/Code_Challenges/code_challenge_13/README.md)   |[Multi-bracket Validation](./javascript/Code_Challenges/code_challenge_13/bracket_validator.js)|
 | [Challenge14]()   |[]()|
 | [Challenge15]()   |[]()|
 | [Challenge16]()   |[]()|
