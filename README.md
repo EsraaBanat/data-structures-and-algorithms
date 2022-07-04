@@ -37,9 +37,9 @@ To run your tests
 | [Challenge11](./javascript//Code_Challenges/code_challenge_11/README.md)   |[Queue Implementation using two Stacks ](./javascript/Code_Challenges/code_challenge_11/)|
 | [Challenge12](./javascript//Code_Challenges/code_challenge_12/README.md)   |[FIFO Animal Shelter](./javascript/Code_Challenges/code_challenge_12/AnimalShelter_queue/AnimalShelter.js)|
 | [Challenge13](./javascript/Code_Challenges/code_challenge_13/README.md)   |[Multi-bracket Validation](./javascript/Code_Challenges/code_challenge_13/bracket_validator.js)|
-| [Challenge14]()   |[]()|
-| [Challenge15]()   |[]()|
-| [Challenge16]()   |[]()|
+| [Challenge14](https://docs.google.com/spreadsheets/d/1Zlrq6lnlUAVf1ySAZ-axyAxqAuwi-Wr1otVNu1OmFfU/edit#gid=478237627)   |[Max stack](https://docs.google.com/spreadsheets/d/1Zlrq6lnlUAVf1ySAZ-axyAxqAuwi-Wr1otVNu1OmFfU/edit#gid=478237627)|
+| [Challenge15](./javascript/Code_Challenges/code_challenge_15/README.md)   |[Binary Tree and BST Implementation](./javascript/Code_Challenges/code_challenge_15/binary-tree.js)|
+| [Challenge16](./javascript/Code_Challenges/code_challenge_16/README.md)   |[Maximum Value in a Binary Tree](./javascript/Code_Challenges/code_challenge_16/binary-tree.js)|
 | [Challenge17]()   |[]()|
 | [Challenge18]()   |[]()|
 | [Challenge19]()   |[]()|
