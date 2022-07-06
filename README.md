@@ -40,7 +40,7 @@ To run your tests
 | [Challenge14](https://docs.google.com/spreadsheets/d/1Zlrq6lnlUAVf1ySAZ-axyAxqAuwi-Wr1otVNu1OmFfU/edit#gid=478237627)   |[Max stack](https://docs.google.com/spreadsheets/d/1Zlrq6lnlUAVf1ySAZ-axyAxqAuwi-Wr1otVNu1OmFfU/edit#gid=478237627)|
 | [Challenge15](./javascript/Code_Challenges/code_challenge_15/README.md)   |[Binary Tree and BST Implementation](./javascript/Code_Challenges/code_challenge_15/binary-tree.js)|
 | [Challenge16](./javascript/Code_Challenges/code_challenge_16/README.md)   |[Maximum Value in a Binary Tree](./javascript/Code_Challenges/code_challenge_16/binary-tree.js)|
-| [Challenge17]()   |[]()|
+| [Challenge17](./javascript/Code_Challenges/code_challenge_17/README.md)   |[Breadth-first Traversal](./javascript/Code_Challenges/code_challenge_17/Breadth-first.js)|
 | [Challenge18]()   |[]()|
 | [Challenge19]()   |[]()|
 | [Challenge20]()   |[]()|
