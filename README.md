@@ -41,7 +41,7 @@ To run your tests
 | [Challenge15](./javascript/Code_Challenges/code_challenge_15/README.md)   |[Binary Tree and BST Implementation](./javascript/Code_Challenges/code_challenge_15/binary-tree.js)|
 | [Challenge16](./javascript/Code_Challenges/code_challenge_16/README.md)   |[Maximum Value in a Binary Tree](./javascript/Code_Challenges/code_challenge_16/binary-tree.js)|
 | [Challenge17](./javascript/Code_Challenges/code_challenge_17/README.md)   |[Breadth-first Traversal](./javascript/Code_Challenges/code_challenge_17/Breadth-first.js)|
-| [Challenge18]()   |[]()|
+| [Challenge18](./javascript//Code_Challenges/code_challenge_18/README.md)   |[tree-fizz-buzz](./javascript/Code_Challenges/code_challenge_18/fizz%20_buzz_tree.js)|
 | [Challenge19]()   |[]()|
 | [Challenge20]()   |[]()|
 | [Challenge21]()   |[]()|
