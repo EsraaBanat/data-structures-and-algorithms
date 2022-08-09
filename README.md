@@ -42,13 +42,25 @@ To run your tests
 | [Challenge16](./javascript/Code_Challenges/code_challenge_16/README.md)   |[Maximum Value in a Binary Tree](./javascript/Code_Challenges/code_challenge_16/binary-tree.js)|
 | [Challenge17](./javascript/Code_Challenges/code_challenge_17/README.md)   |[Breadth-first Traversal](./javascript/Code_Challenges/code_challenge_17/Breadth-first.js)|
 | [Challenge18](./javascript//Code_Challenges/code_challenge_18/README.md)   |[tree-fizz-buzz](./javascript/Code_Challenges/code_challenge_18/fizz%20_buzz_tree.js)|
-| [Challenge19]()   |[]()|
-| [Challenge20]()   |[]()|
-| [Challenge21]()   |[]()|
-| [Challenge22]()   |[]()|
-| [Challenge23]()   |[]()|
-| [Challenge24]()   |[]()|
-| [Challenge25]()   |[]()|
-| [Challenge26]()   |[]()|
+| [Challenge19](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)   |[Compare Tree](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)|
+| [Challenge26](./javascript/Code_Challenges/code_challenge_26/README.md)   |[Insertion Sort](./javascript/Code_Challenges/code_challenge_26/insertion_sort.js)|
 | [Challenge27]()   |[]()|
+| [Challenge28]()   |[]()|
+| [Challenge29]()   |[]()|
+| [Challenge30]()   |[]()|
+| [Challenge31]()   |[]()|
+| [Challenge32]()   |[]()|
+| [Challenge33]()   |[]()|
+| [Challenge34]()   |[]()|
+| [Challenge35]()   |[]()|
+| [Challenge36]()   |[]()|
+| [Challenge37]()   |[]()|
+| [Challenge38]()   |[]()|
+| [Challenge39]()   |[]()|
+| [Challenge40]()   |[]()|
+| [Challenge41]()   |[]()|
+| [Challenge42]()   |[]()|
+| [Challenge43]()   |[]()|
+| [Challenge44]()   |[]()|
+
 
