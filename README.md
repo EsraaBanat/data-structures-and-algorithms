@@ -44,7 +44,7 @@ To run your tests
 | [Challenge18](./javascript//Code_Challenges/code_challenge_18/README.md)   |[tree-fizz-buzz](./javascript/Code_Challenges/code_challenge_18/fizz%20_buzz_tree.js)|
 | [Challenge19](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)   |[Compare Tree](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)|
 | [Challenge26](./javascript/Code_Challenges/code_challenge_26/README.md)   |[Insertion Sort](./javascript/Code_Challenges/code_challenge_26/insertion_sort.js)|
-| [Challenge27]()   |[]()|
+| [Challenge27](./javascript/Code_Challenges/code_challenge_27/README.md)   |[Merge Sort](./javascript/Code_Challenges/code_challenge_27/mergeSort.js)|
 | [Challenge28]()   |[]()|
 | [Challenge29]()   |[]()|
 | [Challenge30]()   |[]()|
