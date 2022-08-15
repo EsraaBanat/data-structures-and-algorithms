@@ -45,7 +45,7 @@ To run your tests
 | [Challenge19](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)   |[Compare Tree](https://docs.google.com/spreadsheets/d/1aNHFGctrM2hOrtb5HpM4ZmqQT8cwpbwY4MfR738L5HI/edit#gid=1569103706)|
 | [Challenge26](./javascript/Code_Challenges/code_challenge_26/README.md)   |[Insertion Sort](./javascript/Code_Challenges/code_challenge_26/insertion_sort.js)|
 | [Challenge27](./javascript/Code_Challenges/code_challenge_27/README.md)   |[Merge Sort](./javascript/Code_Challenges/code_challenge_27/mergeSort.js)|
-| [Challenge28]()   |[]()|
+| [Challenge28](./javascript/Code_Challenges/code_challenge_28/README.md)   |[Quick Sort](./javascript/Code_Challenges/code_challenge_28/quickSort.js)|
 | [Challenge29]()   |[]()|
 | [Challenge30]()   |[]()|
 | [Challenge31]()   |[]()|
