@@ -47,7 +47,7 @@ To run your tests
 | [Challenge27](./javascript/Code_Challenges/code_challenge_27/README.md)   |[Merge Sort](./javascript/Code_Challenges/code_challenge_27/mergeSort.js)|
 | [Challenge28](./javascript/Code_Challenges/code_challenge_28/README.md)   |[Quick Sort](./javascript/Code_Challenges/code_challenge_28/quickSort.js)|
 | [Challenge29](https://docs.google.com/spreadsheets/d/1ycDLnxNeQSyUrGYdfHJkHrpRqV8IJnBjnilZglVmiAM/edit#gid=0)   |[Quick Sort/Mock Interview](https://docs.google.com/spreadsheets/d/1ycDLnxNeQSyUrGYdfHJkHrpRqV8IJnBjnilZglVmiAM/edit#gid=0)|
-| [Challenge30](./javascript/Code_Challenges/code_challenge_30/README.md)   |[Hash Tables](./javascript/Code_Challenges/code_challenge_30/hashTable.test.js)|
+| [Challenge30](./javascript/Code_Challenges/code_challenge_30/README.md)   |[Hash Tables](./javascript/Code_Challenges/code_challenge_30/hashTable.js)|
 | [Challenge31]()   |[]()|
 | [Challenge32]()   |[]()|
 | [Challenge33]()   |[]()|
