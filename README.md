@@ -49,7 +49,7 @@ To run your tests
 | [Challenge29](https://docs.google.com/spreadsheets/d/1ycDLnxNeQSyUrGYdfHJkHrpRqV8IJnBjnilZglVmiAM/edit#gid=0)   |[Quick Sort/Mock Interview](https://docs.google.com/spreadsheets/d/1ycDLnxNeQSyUrGYdfHJkHrpRqV8IJnBjnilZglVmiAM/edit#gid=0)|
 | [Challenge30](./javascript/Code_Challenges/code_challenge_30/README.md)   |[Hash Tables](./javascript/Code_Challenges/code_challenge_30/hashTable.js)|
 | [Challenge31](./javascript/Code_Challenges/code_challenge_31/README.md)   |[First Repeated Word](./javascript/Code_Challenges/code_challenge_31/repeatedWord.js)|
-| [Challenge32]()   |[]()|
+| [Challenge32](./javascript/Code_Challenges/code_challenge_32/treeIntersection/README.md)   |[tree_intersection](./javascript/Code_Challenges/code_challenge_32/treeIntersection/tree-intersection.js)|
 | [Challenge33]()   |[]()|
 | [Challenge34]()   |[]()|
 | [Challenge35]()   |[]()|
