@@ -50,7 +50,7 @@ To run your tests
 | [Challenge30](./javascript/Code_Challenges/code_challenge_30/README.md)   |[Hash Tables](./javascript/Code_Challenges/code_challenge_30/hashTable.js)|
 | [Challenge31](./javascript/Code_Challenges/code_challenge_31/README.md)   |[First Repeated Word](./javascript/Code_Challenges/code_challenge_31/repeatedWord.js)|
 | [Challenge32](./javascript/Code_Challenges/code_challenge_32/treeIntersection/README.md)   |[tree_intersection](./javascript/Code_Challenges/code_challenge_32/treeIntersection/tree-intersection.js)|
-| [Challenge33]()   |[]()|
+| [Challenge33](./javascript/Code_Challenges/code_challenge_33/README.md)   |[LEFT JOINs](./javascript/Code_Challenges/code_challenge_33/joinLeft.js)|
 | [Challenge34]()   |[]()|
 | [Challenge35]()   |[]()|
 | [Challenge36]()   |[]()|
