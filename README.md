@@ -52,15 +52,7 @@ To run your tests
 | [Challenge32](./javascript/Code_Challenges/code_challenge_32/treeIntersection/README.md)   |[tree_intersection](./javascript/Code_Challenges/code_challenge_32/treeIntersection/tree-intersection.js)|
 | [Challenge33](./javascript/Code_Challenges/code_challenge_33/README.md)   |[LEFT JOINs](./javascript/Code_Challenges/code_challenge_33/joinLeft.js)|
 | [Challenge34](https://docs.google.com/spreadsheets/d/1ruzy6JbmuFuUP4g7ar-lffOGjs6bPObcXYIKmyi1WSM/edit#gid=0)   |[unique characters](https://docs.google.com/spreadsheets/d/1ruzy6JbmuFuUP4g7ar-lffOGjs6bPObcXYIKmyi1WSM/edit#gid=0)|
-| [Challenge35]()   |[]()|
-| [Challenge36]()   |[]()|
-| [Challenge37]()   |[]()|
-| [Challenge38]()   |[]()|
-| [Challenge39]()   |[]()|
-| [Challenge40]()   |[]()|
-| [Challenge41]()   |[]()|
-| [Challenge42]()   |[]()|
-| [Challenge43]()   |[]()|
-| [Challenge44]()   |[]()|
+| [Challenge35](./javascript/Code_Challenges/code_challenge_35/README.md)   |[Graph](./javascript/Code_Challenges/code_challenge_35/graph.js)|
+
 
 
